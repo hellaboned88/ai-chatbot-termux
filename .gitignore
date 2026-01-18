@@ -1,7 +1,20 @@
+# Python
 __pycache__/
+*.pyc
 *.db
+
+# Env
+.env
+.env.*
+
+# Logs
 *.log
 *.pid
+
+# Node
 node_modules/
 dist/
-.env
+
+# OS
+.DS_Store
+Thumbs.db
