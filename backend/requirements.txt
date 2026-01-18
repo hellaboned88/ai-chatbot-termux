@@ -1,5 +1,5 @@
-fastapi
+fastapi<0.110
 uvicorn
 httpx
-pydantic
+pydantic<2
 python-multipart
